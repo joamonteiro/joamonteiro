@@ -7,9 +7,9 @@
 My goal is to help companies and individuals communicate better with their target through a slick design and intuitive tools!
 
 - 💻 Recent projects:
--     mint.io - https://mint-io.netlify.app/
--     spot a spot - https://spot-a-spot.herokuapp.com/
--     duck the ducks - https://duck-the-ducks.netlify.app/
+-     https://mint-io.netlify.app/
+-     https://spot-a-spot.herokuapp.com/
+-     https://duck-the-ducks.netlify.app/
 
 
 ### 💬 Lets Get in touch!
