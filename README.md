@@ -1,8 +1,8 @@
 ### Hi there! My name is João Monteiro and im a Full-Stack Developer. 👋
 
 - 📍 Lisbon, Portugal
-- 🌱 I'm currently upgrading my React knowledge 🪙⬆️🆙
-- LinkedIn => https://www.linkedin.com/in/joamonteiro/
+- 🌱 I'm currently upgrading my React knowledge
+- 🤝 LinkedIn https://www.linkedin.com/in/joamonteiro/ 
 
 ### 💻 Recent projects
 -  https://mint-io.netlify.app/
