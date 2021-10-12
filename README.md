@@ -4,7 +4,7 @@
 - 🌱 I'm currently upgrading my React knowledge
 - 🤝 LinkedIn https://www.linkedin.com/in/joamonteiro/ 
 
-- 💻 Recent projects
+##### 💻 Recent projects
 -     https://mint-io.netlify.app/
 -     https://spot-a-spot.herokuapp.com/
 -     https://duck-the-ducks.netlify.app/
