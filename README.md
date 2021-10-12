@@ -4,11 +4,10 @@
 - 🌱 I'm currently upgrading my React knowledge
 - 🤝 LinkedIn https://www.linkedin.com/in/joamonteiro/ 
 
-### 💻 Recent projects
--  https://mint-io.netlify.app/
--  https://spot-a-spot.herokuapp.com/
--  https://duck-the-ducks.netlify.app/
--  https://duck-the-ducks.netlify.app/
+- 💻 Recent projects
+-     https://mint-io.netlify.app/
+-     https://spot-a-spot.herokuapp.com/
+-     https://duck-the-ducks.netlify.app/
 
 <!--
 **joamonteiro/joamonteiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
