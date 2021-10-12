@@ -3,7 +3,7 @@
 - 📍 Lisbon, Portugal
 - 🌱 I'm currently upgrading my React knowledge
 
-**🔓 Open to work 🔓**
+**🔓 Open to work [https://www.linkedin.com/in/joamonteiro/](https://www.linkedin.com/in/joamonteiro/) 🔓**
 
 ##### 💻 Recent projects
 
