@@ -14,7 +14,7 @@
 
 
 
-![linkedin icon](https://cdn.iconscout.com/icon/free/png-256/linkedin-208-916919.png) [My profile](https://www.linkedin.com/in/joamonteiro/)
+![linkedin icon](https://www.shareicon.net/data/256x256/2017/06/30/888065_logo_512x512.png) [My profile](https://www.linkedin.com/in/joamonteiro/)
 
 <!--
 **joamonteiro/joamonteiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
