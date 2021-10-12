@@ -1,19 +1,14 @@
-### Hi there! My name is João Monteiro. 👋
+### Hi there! My name is João Monteiro and im a Full-Stack Developer. 👋
 
 - 📍 Lisbon, Portugal
 - 🌱 I'm currently upgrading my React knowledge 🪙⬆️🆙
-- I’m a web developer & multidisciplinary born in Évora, Portugal.
-My goal is to help companies and individuals communicate better with their target through a slick design and intuitive tools!
+- LinkedIn => https://www.linkedin.com/in/joamonteiro/
 
 ### 💻 Recent projects
 -  https://mint-io.netlify.app/
 -  https://spot-a-spot.herokuapp.com/
 -  https://duck-the-ducks.netlify.app/
 -  https://duck-the-ducks.netlify.app/
-
-
-### 💬 Lets Get in touch!
--  https://www.linkedin.com/in/joamonteiro/
 
 <!--
 **joamonteiro/joamonteiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
