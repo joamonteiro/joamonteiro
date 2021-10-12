@@ -6,7 +6,7 @@
 - I’m a web developer & multidisciplinary born in Évora, Portugal.
 My goal is to help companies and individuals communicate better with their target through a slick design and intuitive tools!
 
-- 💻 Recent projects:
+- 💻 Recent projects
 -     https://mint-io.netlify.app/
 -     https://spot-a-spot.herokuapp.com/
 -     https://duck-the-ducks.netlify.app/
