@@ -6,10 +6,8 @@
 
 ##### 💻 Recent projects
 
-[mint.io](https://mint-io.netlify.app/)
-
-[spot a spot](https://spot-a-spot.herokuapp.com/)
-
+[mint.io](https://mint-io.netlify.app/) ||
+[spot a spot](https://spot-a-spot.herokuapp.com/) ||
 [duck the ducks](https://duck-the-ducks.netlify.app/)
 
 <!--
