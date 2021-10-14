@@ -2,7 +2,7 @@
 
 - 📍 Lisbon, Portugal
 - 🌱 I'm currently upgrading my React knowledge
-- 🔓 Open to work [https://www.linkedin.com/in/joamonteiro/](https://www.linkedin.com/in/joamonteiro/) 🔓
+- 🔵 [https://www.linkedin.com/in/joamonteiro/](https://www.linkedin.com/in/joamonteiro/)
 
 ##### Recent projects [mint.io](https://mint-io.netlify.app/) || [spot a spot](https://spot-a-spot.herokuapp.com/) || [duck the ducks](https://duck-the-ducks.netlify.app/)
 
